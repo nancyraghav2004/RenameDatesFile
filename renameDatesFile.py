@@ -46,32 +46,3 @@ for amerFilename in os.listdir('.'):
     #rename the files.
     print('Renaming "%s" to "%s"...' % (amerFilename, euroFilename))
     #shutil.move(amerFilename, euroFilename)  #uncomment after testing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
